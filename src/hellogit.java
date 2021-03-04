@@ -13,5 +13,9 @@ public class hellogit {
 
         System.out.println("adding more stuff 2");
 
+        System.out.println("adding more stuff 3");
+
+        System.out.println("adding more stuff 4");
+
     }
 }
