@@ -23,5 +23,10 @@ public class hellogit {
 
         System.out.println("almost done adding stuff");
 
+        System.out.println("adding even more stuff after restarting InteliJ and terminal");
+
+        System.out.println("finding really strange but cool at the same time");
+        
+
     }
 }
